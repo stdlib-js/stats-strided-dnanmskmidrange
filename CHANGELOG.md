@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-01-19)
+## Unreleased (2026-01-25)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`1c9a785`](https://github.com/stdlib-js/stdlib/commit/1c9a785ad53c5dac99aa5e019402cd4d8e7bccaa) - **bench:** add missing benchmarks _(by Athan Reines)_
 -   [`1b8a546`](https://github.com/stdlib-js/stdlib/commit/1b8a546a22a9b669cd5287c32a5c16f9422c48c9) - **feat:** add `stats/strided/dnanmskmidrange` [(#9823)](https://github.com/stdlib-js/stdlib/pull/9823) _(by Sachin Pangal, Philipp Burckhardt, stdlib-bot)_
 
 </details>
@@ -34,8 +35,9 @@
 
 ### Contributors
 
-A total of 2 people contributed to this release. Thank you to the following contributors:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
+-   Athan Reines
 -   Philipp Burckhardt
 -   Sachin Pangal
 
