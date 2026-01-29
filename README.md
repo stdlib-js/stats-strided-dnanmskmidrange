@@ -52,7 +52,7 @@ The [**mid-range**][mid-range] is defined as the arithmetic mean of the maximum 
 ## Usage
 
 ```javascript
-import dnanmskmidrange from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-strided-dnanmskmidrange@esm/index.mjs';
+import dnanmskmidrange from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-strided-dnanmskmidrange@v0.1.0-esm/index.mjs';
 ```
 
 #### dnanmskmidrange( N, x, strideX, mask, strideMask )
@@ -171,7 +171,7 @@ var v = dnanmskmidrange.ndarray( 4, x, 2, 1, mask, 2, 1 );
 import uniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-uniform@esm/index.mjs';
 import bernoulli from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-bernoulli@esm/index.mjs';
 import filledarrayBy from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-filled-by@esm/index.mjs';
-import dnanmskmidrange from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-strided-dnanmskmidrange@esm/index.mjs';
+import dnanmskmidrange from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-strided-dnanmskmidrange@v0.1.0-esm/index.mjs';
 
 function rand() {
     if ( bernoulli( 0.8 ) < 1 ) {
